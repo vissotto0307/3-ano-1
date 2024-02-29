@@ -5,9 +5,10 @@
     --verde: #fdfdfd;
     --branco: #FFFFFF;
     --botao-ativo: #1601ff;
-    --botao-inativo: rgba(100, 10, 81, 0.822);
+    --botao-inativo: rgb(74, 10, 100);
     --texto-fundo: rgba(100, 10, 81, 0.822);
 }
+
 
 body {
     background-color: var(--cor-de-fundo);
